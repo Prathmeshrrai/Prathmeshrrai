@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prathmeshrrai
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me @prathmeshrrai
 - 😄 Pronouns: He/Him
