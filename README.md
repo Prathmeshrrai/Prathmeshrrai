@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @Prathmeshrrai
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me @prathmeshrrai
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Always positive
+Hi 👋, I'm Prathmesh Rai  
 
-<!---
-Prathmeshrrai/Prathmeshrrai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 B.Sc. Computer Science Graduate | Frontend & MERN Developer  
+💻 Passionate about Web Development, DSA, and AI/ML  
+🚀 On a journey to become a world-class Software Engineer  
+
+
+🔧 Tech Stack
+- Languages: Python, JavaScript, Java, C++  
+- Web: ReactJS, Node.js, Express, MongoDB  
+- Tools: Git, Linux, AWS Basics  
+
+
+📌 Featured Projects
+- 🍔 [Foodie-Weee](https://prathmeshrrai.github.io/Foodie-Weee/) – Food ordering app (ReactJS)  
+- 🌐 Portfolio Website – 3D & Interactive Portfolio (React + ThreeJS)  
+
+
+📊 GitHub Stats
+![Prathmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathmeshrrai&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshrrai&layout=compact&theme=tokyonight)
+
+
+🔥 Streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathmeshrrai&theme=tokyonight)
+
+
+🐍 Contribution Snake
+![snake gif](https://github.com/prathmeshrrai/prathmeshrrai/blob/output/github-contribution-grid-snake.svg)
+
+
+📫 Connect with me  
+- LinkedIn: [Prathmesh Rai](https://www.linkedin.com/in/prathmeshrrai/)  
+- Email: raiprathmesh71@gmail.com  
+
+✨ *Always learning. Always building.*  
