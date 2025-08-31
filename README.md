@@ -34,7 +34,7 @@ Hi 👋, I'm Prathmesh Rai
 🐍 Contribution Snake
 
 
-![snake gif](https://raw.githubusercontent.com/prathmeshrrai/prathmeshrrai/output/snake.gif)
+![snake svg](https://raw.githubusercontent.com/prathmeshrrai/prathmeshrrai/output/snake.svg)
 
 
 📫 Connect with me  
