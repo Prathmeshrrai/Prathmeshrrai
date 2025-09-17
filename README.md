@@ -16,19 +16,6 @@ Hi 👋, I'm Prathmesh Rai
 - 🌐 Portfolio Website – 3D & Interactive Portfolio (React + ThreeJS)  
 
 
-📊 GitHub Stats
-
-
-![Prathmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathmeshrrai&show_icons=true&theme=tokyonight)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshrrai&layout=compact&theme=tokyonight)
-
-
-🔥 Streaks
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathmeshrrai&theme=tokyonight)
 
 
 🐍 Contribution Snake
